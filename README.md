@@ -8,6 +8,7 @@ This repository contains C++ header files implementing various searching algorit
 - [How_to_Use](#How_to_Use)
 - [Contributions](#Contributions)
 - [Test](#Test)
+
 #Linear
 linear_search.hpp implements the Linear Search algorithm. Linear Search sequentially searches through each element of the array to find a target value.
 #Binary

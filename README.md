@@ -1,7 +1,7 @@
 # Searching Algorithms
 This repository contains C++ header files implementing various searching algorithms. These algorithms help you find the position of a target value within a sorted array or list efficiently.
 # Table of Contents
-- [Linear](#linear)
+- [Linear](#Linear)
 - [Binary](#Binary)
 - [Jump](#Jump)
 - [Ternary](#Ternary)

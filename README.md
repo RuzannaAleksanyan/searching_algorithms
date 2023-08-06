@@ -1,7 +1,7 @@
 # Searching Algorithms
 This repository contains C++ header files implementing various searching algorithms. These algorithms help you find the position of a target value within a sorted array or list efficiently.
 # Table of Contents
-- [Linear](#Linear)
+- [Linear](#linear)
 - [Binary](#Binary)
 - [Jump](#Jump)
 - [Ternary](#Ternary)
@@ -9,7 +9,7 @@ This repository contains C++ header files implementing various searching algorit
 - [Contributions](#Contributions)
 - [Test](#Test)
 
-#Linear
+#linear
 linear_search.hpp implements the Linear Search algorithm. Linear Search sequentially searches through each element of the array to find a target value.
 #Binary
 binary_search.hpp implements both recursive and iterative Binary Search algorithms. Binary Search divides the array in half and checks if the target value is in the left or right subarray.
